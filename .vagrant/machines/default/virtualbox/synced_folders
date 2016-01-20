@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/lumen-test":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/lumen-test","hostpath":"/Users/kyle/Sites/php_projects/lumen-test","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/kyle/Sites/php_projects/lumen-test","disabled":false}}}
